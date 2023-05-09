@@ -1,5 +1,5 @@
 // [TUGAS BESAR ISD]
-// Aloysius Gonzaga Seto Galih Damarjati / 210711180 / A (PERCENTAGE OF WORK == 99%)
+// Aloysius Gonzaga Seto Galih Damarjati / 210711180 / A
 // Reyhan / 210711212 / A
 
 #include "header.h"
